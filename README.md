@@ -7,13 +7,11 @@ Practica de Ionic, creación de listas.
         <img src="src/assets/img/Portada1.png" width="250px;"/>
         <img src="src/assets/img/Pendientes1.png" width="250px;"/>
         <img src="src/assets/img/Delete1.png" width="250px;"/>
-        <img src="src/assets/img/Edit1.png" width="250px;"/>
     </div>
     <div class="col">
         <img src="src/assets/img/Portada2.png" width="250px;"/>
         <img src="src/assets/img/Pendientes2.png" width="250px;"/>
         <img src="src/assets/img/Delete2.png" width="250px;"/>
-        <img src="src/assets/img/Edit2.png" width="250px;"/>
     </div>
 </div>
 
